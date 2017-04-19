@@ -591,7 +591,7 @@ public final class StdRandom {
 //            for (String s : a)
 //                StdOut.print(s);
 //            StdOut.println();
-        }
+//        }
     }
 
 }
